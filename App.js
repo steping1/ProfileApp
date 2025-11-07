@@ -45,6 +45,5 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
   section: {
-    // sadece gruplama amaçlı; istersen kaldırabilirsin
   },
 });
