@@ -1,4 +1,3 @@
-import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity, Alert, Platform } from 'react-native';
 
 export default function ProfileCard({ name, role, imageSource }) {
@@ -25,13 +24,11 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginVertical: 10,
 
-    // iOS gölge
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
     shadowRadius: 4,
 
-    // Android gölge
     elevation: 3,
   },
   avatar: {
