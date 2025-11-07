@@ -1,4 +1,4 @@
-# Student ID: 220408800 |  Name: Akif Yılmaz
+# Student ID: 220408800 |  Name: Mehmet Akif Yılmaz
 
 ## Profile Card App (React Native + Expo)
 
